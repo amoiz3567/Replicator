@@ -1,7 +1,7 @@
 import os
 import time
 import math
-import main
+#import main
 from Script import scripts
 
 
